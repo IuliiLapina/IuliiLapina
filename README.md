@@ -1,5 +1,5 @@
 # Hi there 👋
-I’m Yuliia, a junior front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications.
+I’m Yuliia, a junior front-end developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications.
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/-HTML5-4AB197)
